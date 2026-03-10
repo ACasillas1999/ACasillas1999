@@ -40,50 +40,6 @@ Actualmente trabajo desarrollando software interno y herramientas de gestión pa
 
 ---
 
-# 📂 Proyectos Destacados
-
-### 📦 Pedidos GA
-Sistema de gestión logística para pedidos, choferes y vehículos.
-
-Funciones principales:
-- Gestión de entregas
-- Control de choferes
-- Seguimiento de pedidos
-- Reportes y métricas
-
----
-
-### 🏢 SEGAOC
-Sistema para **Seguimiento y Administración de Órdenes de Compra**.
-
-Incluye:
-- Gestión de sugeridos
-- Back orders
-- Tickets de soporte
-- Reportes y métricas
-
----
-
-### 💬 Mensajería GA
-Plataforma de mensajería empresarial con integración de **WhatsApp Business API**.
-
-Funciones:
-- Envío de mensajes automatizados
-- Notificaciones empresariales
-- Gestión de conversaciones
-
----
-
-### 📊 Congreso GA
-Sistema para gestión de eventos corporativos.
-
-Incluye:
-- Registro de asistentes
-- Control de proveedores
-- Gestión de sucursales
-
----
-
 # 📈 Estadísticas de GitHub
 
 ![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=ACasillas1999&show_icons=true&theme=tokyonight)
