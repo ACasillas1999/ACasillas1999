@@ -83,25 +83,6 @@ He trabajado en el desarrollo de **sistemas internos empresariales**, plataforma
 
 ---
 
-# 📊 Estadísticas de GitHub
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ACasillas1999&show_icons=true&theme=default&hide_border=true&count_private=true">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACasillas1999&layout=compact&hide_border=true">
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ACasillas1999&hide_border=true">
-
-</p>
 
 ---
 
